@@ -1,18 +1,6 @@
-## Getting Started
+Materi yang dipelajari:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Object-Oriented Programming (OOP) : Mengenalkan pilar OOP yakni Inheritance, Encapsulation, Abstraction, dan Polymorphism.
+Relasi pada OOP : Mengetahui macam-macam hubungan antar objek di OOP seperti association, agregation, composition, dependency, generalization, specialization, dan implementation. (2 jam 20 menit) 
+Software Design Principle : Menjelaskan tentang kenapa seorang developer harus memahami software design principle jika ingin membangun suatu aplikasi yang berbasis OOP. Dipelajari juga 3 karakteristik penting dari design buruk yang perlu dihindari yakni rigidity, fragility, dan immobility.
+S.O.L.I.D : Mengenalkan satu per satu prinsip dari SOLID yaitu Single Responsibility, Open Closed, Liskov Substitution, Interface Segregation, dan Dependency Inversion.
